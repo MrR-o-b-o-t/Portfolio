@@ -802,7 +802,7 @@ call-to-action .button {
 /* h. Contact Section
 /* ------------------------------------------------------------------ */
 
-#contact {
+.contact {
    background: #191919;
    padding-top: 40px;
    padding-bottom: 100px;
@@ -810,32 +810,40 @@ call-to-action .button {
    height: 600px;
 }
 
-#contact-input {
-   margin: 0 auto;
+.inputWrapper {
+   display: flex;
+   justify-content: center;
 }
 
-#contact h3 {
+.inputButton {
+   display: flex;
+   justify-content: center;
+   margin-top: 40px;
+}
+
+.contact h3 {
+   font: 18px/24px 'opensans-bold', sans-serif;
+   text-transform: uppercase;
+   letter-spacing: 3px;
+   color: #EBEEEE;
+   margin-bottom: 6px;
+   text-align: center;
+}
+
+.contact .section-head { margin-bottom: 42px; }
+
+.contact a, #contact a:visited  { color: #11ABB0; }
+.contact a:hover, #contact a:focus { color: #fff; }
+
+.contact h1 {
    font: 18px/24px 'opensans-bold', sans-serif;
    text-transform: uppercase;
    letter-spacing: 3px;
    color: #EBEEEE;
    margin-bottom: 6px;
 }
-
-#contact .section-head { margin-bottom: 42px; }
-
-#contact a, #contact a:visited  { color: #11ABB0; }
-#contact a:hover, #contact a:focus { color: #fff; }
-
-#contact h1 {
-   font: 18px/24px 'opensans-bold', sans-serif;
-   text-transform: uppercase;
-   letter-spacing: 3px;
-   color: #EBEEEE;
-   margin-bottom: 6px;
-}
-#contact h1 span { display: none; }
-#contact h1:before {
+.contact h1 span { display: none; }
+.contact h1:before {
    font-family: 'FontAwesome';
    content: "\f0e0";
 	padding-right: 10px;
@@ -846,16 +854,16 @@ call-to-action .button {
    color: #ebeeee;
 }
 
-#contact h4 {
+.contact h4 {
    font: 16px/24px 'opensans-bold', sans-serif;
    color: #EBEEEE;
    margin-bottom: 6px;
 }
-#contact p.lead {
+.contact p.lead {
    font: 18px/36px 'opensans-light', sans-serif;
    padding-right: 3%;
 }
-#contact .header-col { padding-top: 6px; }
+.contact .header-col { padding-top: 6px; }
 
 
 /* Twitter Feed */

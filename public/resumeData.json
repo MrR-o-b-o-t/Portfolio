@@ -18,32 +18,23 @@
     "social":[
       {
         "name":"facebook",
-        "url":"http://facebook.com/tim.baker.906",
+        "url":"https://www.facebook.com/sam.kautz.75",
         "className":"fa fa-facebook"
       },
       {
         "name":"twitter",
-        "url":"http://twitter.com",
+        "url":"https://twitter.com/webdevjr1",
         "className":"fa fa-twitter"
       },
-      {
-        "name":"google-plus",
-        "url":"http://googleplus.com/tbakerx",
-        "className":"fa fa-google-plus"
-      },
-      {
-        "name":"linkedin",
-        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
-        "className":"fa fa-linkedin"
-      },
+
       {
         "name":"instagram",
-        "url":"http://instagram.com/tbaker_x",
+        "url":"https://www.instagram.com/webdevjr/",
         "className":"fa fa-instagram"
       },
       {
         "name":"github",
-        "url":"http://github.com/tbakerx",
+        "url":"https://github.com/Web-Dev-Jr",
         "className":"fa fa-github"
       },
       {
@@ -79,7 +70,7 @@
     "skills":[
       {
         "name":"Git",
-        "level":"100%"
+        "image":"git.jpg"
       },
       {
         "name":"Bootstrap",

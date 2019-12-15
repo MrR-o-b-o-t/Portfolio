@@ -14,7 +14,7 @@ export default class MyForm extends React.Component {
    render() {
      const { status } = this.state;
      return (
-      <section id="contact">
+      <section class="contact">
        <form
          onSubmit={this.submitForm}
          action="https://formspree.io/xzbzkopq"
@@ -22,15 +22,24 @@ export default class MyForm extends React.Component {
        >
           <br></br> 
          <h3>Use this contact form to reach out and I will get back to you as soon as possible!</h3>
-         <div>
-         <label>Email:</label>
-         <input class="email" type="email" name="email" />
-         <label>Message:</label>
-         <input class="message" type="text" name="message" />
+         <br></br>
+         <div class='inputWrapper'>
+            <label>Email:</label>
+            </div>
+            <div class='inputWrapper'>
+            <input class="email" type="email" name="email" />
+            </div>
+            <div class='inputWrapper'>
+            <label>Message:</label>
+            </div>
+            <div class='inputWrapper'>
+            <input class="message" type="text" name="message" />
+            </div>
+         <div class="inputButton">
          {status === "SUCCESS" ? <p>Success! I will get back to you soon!</p> : <button>Submit</button>}
          {status === "ERROR" && <p>Ooops! There was an error. Try submitting the form again or reaching out to me directly at Contact@samkautz.com</p>}
          </div>
-       </form>
+         </form>
        </section>
      );
    }
