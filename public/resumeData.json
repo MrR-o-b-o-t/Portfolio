@@ -100,25 +100,25 @@
         "title":"Calculator",
         "category":"Calculator built with JavaScript, HTML5, and CCS3.",
         "image":"calculator.jpeg",
-        "url":"https://www.canadianwanderlust.com"
+        "url":"https://codepen.io/constequalsexcel/pen/VwwNdqZ"
       },
       {
         "title":"Random Quote Generator",
         "category":"Random quote generator built using JavaScript, HTML5, and CSS3.",
         "image":"random-quote.png",
-        "url":"http://www.timbakerdev.com"
+        "url":"https://codepen.io/constequalsexcel/pen/YzzbobG"
       },
       {
         "title":"React Website",
         "category":"Website I built using React, Jquery, Node, Javascript, CSS3, HTML5, and a few API's.",
         "image":"react-website.png",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+        "url":"https://samkautzresume.dev"
       },
       {
         "title":"Resume Website",
         "category":"A Bootstrap based resume website",
         "image":"bs-website.png",
-        "url":"http://www.timbakerdev.com"
+        "url":"http://samkautz.com/"
       }
     ]
   },
