@@ -1,0 +1,142 @@
+{
+  "main": {
+    "name":"Sam Kautz",
+    "occupation":"Web Developer",
+    "description":"I'm a self taught web developer that enjoys working with React, JavaScript, HTML5, CSS3, Node, and Bootstrap.",
+    "image":"profilepic.jpeg",
+    "bio":"Welcome to my resume website! I built this site using React, Jquery, HTML5, CSS3, Node, and a few API's. I enjoy working with all of these languages and am exploring new languages all the time. Keep reading to find a little more information about me and my work!",
+    "contactmessage":"Use this contact form to reach out and I will get back to you as soon as possible!",
+    "email": "contact@samkautz.com",
+    "phone": "972-963-0203",
+    "address":{
+      "city":"Prosper",
+      "state":"Texas",
+      "zip": "75078"
+    },
+    "website": "http://www.samkautzresume.dev",
+    "resumedownload":"http://samkautz.com",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"http://facebook.com/tim.baker.906",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"http://twitter.com",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"google-plus",
+        "url":"http://googleplus.com/tbakerx",
+        "className":"fa fa-google-plus"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"http://instagram.com/tbaker_x",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"http://github.com/tbakerx",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"skype",
+        "url":"http://skype.com",
+        "className":"fa fa-skype"
+      }
+    ]
+  },
+  "resume":{
+    "education":[
+      {
+        "school":"University of Central Oklahoma",
+        "degree":"Finance",
+        "graduated":"April 2012",
+        "description":"I graduated from The University of Central Oklahoma with a B.A. in Finance and a minor in Business."
+      }
+    ],
+    "work":[
+      {
+        "company":"GuidePath",
+        "title":"Financial Advisor",
+        "years":"March 2012 - Present",
+        "description":"At GuidePath I worked with cleints by providing investment and or retirement guidance, initiated buys and sells on behalf of clients, and provided other general retirement advice regarding 403(b) retirement accounts."
+      },
+      {
+        "company":"Starbucks Coffee",
+        "title":"Assistant Manager",
+        "years":"April 2006 - Feb 2010",
+        "description":"I began at Starbucks as a Barista and was eventually promoted to Shift Leader in 2007 and Assistnant Manager in 2009. I was responsible for creating schedules for all staff, dropping daily bank deposits, opening and closing the store, and managing 5-10 employees during shifts."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Git",
+        "level":"100%"
+      },
+      {
+        "name":"Bootstrap",
+        "level":"100%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"100%"
+      },
+      {
+        "name":"CSS",
+        "level":"100%"
+      },
+      {
+        "name":"HTML5",
+        "level":"100%"
+      },
+      {
+        "name": "Node",
+        "level": "100%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Calculator",
+        "category":"Calculator built with JavaScript, HTML5, and CCS3.",
+        "image":"calculator.jpeg",
+        "url":"https://www.canadianwanderlust.com"
+      },
+      {
+        "title":"Random Quote Generator",
+        "category":"Random quote generator built using JavaScript, HTML5, and CSS3.",
+        "image":"random-quote.png",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"React Website",
+        "category":"Website I built using React, Jquery, Node, Javascript, CSS3, HTML5, and a few API's.",
+        "image":"react-website.png",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"Resume Website",
+        "category":"A Bootstrap based resume website",
+        "image":"bs-website.png",
+        "url":"http://www.timbakerdev.com"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Sam did a great job building a wesbite for our small business! We have already had a few messages and calls from the new site and love the clean look. We would highly recommend his work.",
+        "user":"Nate & Violet"
+      }
+    ]
+  }
+}
