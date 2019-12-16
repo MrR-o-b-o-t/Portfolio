@@ -82,11 +82,11 @@
       },
       {
         "name":"CSS",
-        "image":""
+        "image":"css.png"
       },
       {
         "name":"HTML5",
-        "image":"100%"
+        "image":"html.png"
       },
       {
         "name": "Node",
