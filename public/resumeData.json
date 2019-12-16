@@ -78,19 +78,19 @@
       },
       {
         "name":"ReactJs",
-        "level":"100%"
+        "image":"react.jpg"
       },
       {
         "name":"CSS",
-        "level":"100%"
+        "image":""
       },
       {
         "name":"HTML5",
-        "level":"100%"
+        "image":"100%"
       },
       {
         "name": "Node",
-        "level": "100%"
+        "image": "node.jpg"
       }
     ]
   },
