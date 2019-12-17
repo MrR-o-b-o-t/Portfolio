@@ -48,23 +48,23 @@
     "education":[
       {
         "school":"University of Central Oklahoma",
-        "degree":"Finance",
-        "graduated":"April 2012",
+        "degree":"Business",
+        "graduated":"April 2015",
         "description":"I graduated from The University of Central Oklahoma with a B.A. in Finance and a minor in Business."
       }
     ],
     "work":[
       {
-        "company":"GuidePath",
-        "title":"Financial Advisor",
-        "years":"March 2012 - Present",
-        "description":"At GuidePath I worked with cleints by providing investment and or retirement guidance, initiated buys and sells on behalf of clients, and provided other general retirement advice regarding 403(b) retirement accounts."
+        "company":"Wayfair",
+        "title":"IT Technician",
+        "years":"September 2019 - Present",
+        "description":"At Wayfair I process support request for technical assistance for a wide range of issues related to software and work related equipment."
       },
       {
-        "company":"Starbucks Coffee",
-        "title":"Assistant Manager",
-        "years":"April 2006 - Feb 2010",
-        "description":"I began at Starbucks as a Barista and was eventually promoted to Shift Leader in 2007 and Assistnant Manager in 2009. I was responsible for creating schedules for all staff, dropping daily bank deposits, opening and closing the store, and managing 5-10 employees during shifts."
+        "company":"GuideLink",
+        "title":"Retirement Team Lead",
+        "years":"May 2015 - September 2019",
+        "description":"At GuidePath I worked with cleints by providing investment and or retirement guidance, initiated buys and sells on behalf of clients, and provided other general retirement advice regarding 403(b) retirement accounts."
       }
     ],
     "skills":[
