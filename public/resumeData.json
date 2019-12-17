@@ -91,6 +91,10 @@
       {
         "name": "Node",
         "image": "node.jpg"
+      },
+      {
+        "name":"Javascript",
+        "image":"javascript.png"
       }
     ]
   },
