@@ -30,7 +30,7 @@ body { background: #0f0f0f; }
 
 header {
    position: relative;
-   height: 650px;
+   max-height: 1050px;
    min-height: 400px;
    width: 100%;
    background: #161415 url(../images/header-background.jpg) no-repeat top center;
@@ -216,8 +216,8 @@ ul#nav li.current a { color: #F06000; }
 }
 #about .profile-pic {
    position: relative;
-   width: 120px;
-   height: 120px;
+   width: 130px;
+   height: 130px;
    border-radius: 100%;
 }
 #about .contact-details { width: 41.66667%; }
