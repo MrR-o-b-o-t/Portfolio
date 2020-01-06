@@ -2,7 +2,7 @@ import React from 'react';
 
 
 
-export default class MyForm extends React.Component {
+export default class Contact extends React.Component {
    constructor(props) {
      super(props);
      this.submitForm = this.submitForm.bind(this);
