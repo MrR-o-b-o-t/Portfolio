@@ -48,9 +48,13 @@
     "education":[
       {
         "school":"University of Central Oklahoma",
-        "degree":"Business",
-        "graduated":"April 2015",
-        "description":"I graduated from The University of Central Oklahoma with a B.A. in Business and a minor in Finance."
+        "degree":"B.A. in Business with a minor in Finance.",
+        "graduated":"2015"
+      },
+      {
+        "school":"Penn State - World Campus",
+        "degree":"Master of Software Engineering",
+        "graduated":"2019 - Present"
       }
     ],
     "work":[
