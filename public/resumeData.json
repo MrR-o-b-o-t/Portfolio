@@ -104,6 +104,10 @@
       {
         "name":"Javascript",
         "image":"javascript.png"
+      },
+      {
+        "name":"Python",
+        "image":"python-thumbnail"
       }
     ]
   },
