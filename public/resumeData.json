@@ -108,6 +108,14 @@
       {
         "name":"Python",
         "image":"python-thumbnail.png"
+      },
+      {
+        "name":"C#",
+        "image":"C#.png"
+      },
+      {
+        "name":"ASP.NET",
+        "image":"asp.net.png"
       }
     ]
   },
