@@ -188,7 +188,10 @@ ul#nav li a {
 }
 
 ul#nav li a:active { background-color: transparent !important; }
-ul#nav li.current a { color: #F06000; }
+ul#nav li.current a { 
+   color: rgba(36, 170, 219, 0.72); 
+   text-shadow: 5px 2px 17px rgb(255, 255, 255, .6);
+}
 
 
 /* ------------------------------------------------------------------ */
@@ -216,7 +219,7 @@ ul#nav li.current a { color: #F06000; }
 }
 #about .profile-pic {
    position: relative;
-   width: 130px;
+   width: 1150px;
    height: 130px;
    border-radius: 100%;
 }
