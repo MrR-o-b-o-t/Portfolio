@@ -12,7 +12,7 @@ export default class Contact extends React.Component {
    render() {
      const { status } = this.state;
      return (
-      <section class="contact">
+      <section id="contact" class="contact">
        <form
          onSubmit={this.submitForm}
          action="https://formspree.io/myykylgq"
