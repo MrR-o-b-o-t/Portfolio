@@ -2,14 +2,14 @@
   "main": {
     "name":"Sam Kautz",
     "occupation":"Web Developer",
-    "description":"I'm a trained web developer that enjoys working with React, C#, Python, JavaScript, HTML5, CSS3, Node, Bootstrap, and more!",
+    "description":"I'm trained in and enjoy working with React, C#, Python, SQL, JavaScript, HTML5, CSS3, Node, Bootstrap, and more!",
     "image":"profilepic.jpeg",
-    "bio":"Welcome to my resume website! I built this site using React, Jquery, HTML5, CSS3, Node, and a few API's. I enjoy working with all of these languages and am exploring new languages all the time. Keep reading to find a little more information about me and my work!",
+    "bio":"Welcome to my resume website! I built this site using React, Jquery, HTML5, Bootstrap4, CSS3, Node, and a few API's. I enjoy working with all of these languages and am exploring new languages all the time. Keep reading to find a little more information about me and my work!",
     "contactmessage":"Use this contact form to reach out and I will get back to you as soon as possible!",
     "email": "contact@samkautz.com",
     "phone": "972-963-0203",
     "address":{
-      "city":"Prosper",
+      "city":"Dallas",
       "state":"Texas",
       "zip": "75078"
     },
