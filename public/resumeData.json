@@ -49,16 +49,16 @@
       {
         "school":"University of Central Oklahoma",
         "degree":"B.A. in Business with a minor in Finance.",
-        "graduated":"2015"
+        "graduated":"2012"
       },
       {
-        "school":"Penn State - World Campus",
+        "school":"Southern New Hampshire University",
         "degree":"Master of Software Engineering",
         "graduated":"2019 - Present"
       },
       {
         "school":"The Tech Academy",
-        "degree":"HTML, CSS, JavaScript, Bootstrap, React, C#, and Python",
+        "degree":"HTML, CSS, SQL, JavaScript, Bootstrap, React, C#, and Python",
         "graduated":"2020"
       }
     ],
