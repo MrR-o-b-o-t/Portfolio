@@ -112,25 +112,25 @@
         "title":"Calculator",
         "category":"Calculator built with JavaScript, HTML5, and CCS3.",
         "image":"calculator.jpeg",
-        "url":"https://codepen.io/constequalsexcel/pen/VwwNdqZ"
+        "url":"https://github.com/Web-Dev-Jr/Calculator"
       },
       {
-        "title":"Random Quote Generator",
-        "category":"Random quote generator built using JavaScript, HTML5, and CSS3.",
+        "title":"Todo App",
+        "category":"Todo app built with React, HTML5, and CSS3.",
         "image":"random-quote.png",
-        "url":"https://codepen.io/constequalsexcel/pen/YzzbobG"
+        "url":"https://github.com/Web-Dev-Jr/Todo-App"
       },
       {
-        "title":"React Website",
-        "category":"Website I built using React, Jquery, Node, Javascript, CSS3, HTML5, and a few API's.",
+        "title":"Snake Game",
+        "category":"Classic snake game built with Javascript, Canvas, CSS3, and HTML5.",
         "image":"react-website.png",
-        "url":"https://samkautzresume.dev"
+        "url":"https://github.com/Web-Dev-Jr/Snake-Game"
       },
       {
-        "title":"Resume Website",
-        "category":"A Bootstrap based resume website",
+        "title":"Expense Tracker",
+        "category":"Classic expense tracker app built with React, HTML5, CSS3 and Bootstrap.",
         "image":"bs-website.png",
-        "url":"http://samkautz.com/"
+        "url":"https://github.com/Web-Dev-Jr/expense-tracker"
       }
     ]
   },
