@@ -112,24 +112,24 @@
         "title":"Calculator",
         "category":"Calculator built with JavaScript, HTML5, and CCS3.",
         "image":"calculator.jpeg",
-        "url":"https://github.com/Web-Dev-Jr/Calculator"
+        "url":"https://web-dev-jr.github.io/Calculator/"
       },
       {
         "title":"Todo App",
-        "category":"Todo app built with React, HTML5, and CSS3.",
-        "image":"random-quote.png",
+        "category":"Todo app built with JavaScript, HTML5, Bootstrap, and CSS3.",
+        "image":"Capture-todo.png",
         "url":"https://github.com/Web-Dev-Jr/Todo-App"
       },
       {
         "title":"Snake Game",
         "category":"Classic snake game built with Javascript, Canvas, CSS3, and HTML5.",
-        "image":"react-website.png",
+        "image":"snakeGame.png",
         "url":"https://github.com/Web-Dev-Jr/Snake-Game"
       },
       {
         "title":"Expense Tracker",
         "category":"Classic expense tracker app built with React, HTML5, CSS3 and Bootstrap.",
-        "image":"bs-website.png",
+        "image":"expense-tracker.png",
         "url":"https://github.com/Web-Dev-Jr/expense-tracker"
       }
     ]
