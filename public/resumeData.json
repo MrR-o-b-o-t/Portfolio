@@ -117,19 +117,19 @@
       {
         "title":"Todo App",
         "category":"Todo app built with JavaScript, HTML5, Bootstrap, and CSS3.",
-        "image":"Capture-todo.png",
+        "image":"Capture-todo.PNG",
         "url":"https://github.com/Web-Dev-Jr/Todo-App"
       },
       {
         "title":"Snake Game",
         "category":"Classic snake game built with Javascript, Canvas, CSS3, and HTML5.",
-        "image":"snakeGame.png",
+        "image":"snakeGame.PNG",
         "url":"https://github.com/Web-Dev-Jr/Snake-Game"
       },
       {
         "title":"Expense Tracker",
         "category":"Classic expense tracker app built with React, HTML5, CSS3 and Bootstrap.",
-        "image":"expense-tracker.png",
+        "image":"expense-tracker.PNG",
         "url":"https://github.com/Web-Dev-Jr/expense-tracker"
       }
     ]
