@@ -17,17 +17,6 @@
     "resumedownload":"https://drive.google.com/open?id=1BzotRaCb4zFxo8rZdPCJWWwiqVLFNc1b",
     "social":[
       {
-        "name":"facebook",
-        "url":"https://www.facebook.com/sam.kautz.75",
-        "className":"fa fa-facebook"
-      },
-      {
-        "name":"twitter",
-        "url":"https://twitter.com/webdevjr1",
-        "className":"fa fa-twitter"
-      },
-
-      {
         "name":"instagram",
         "url":"https://www.instagram.com/webdevjr/",
         "className":"fa fa-instagram"
@@ -117,7 +106,7 @@
       {
         "title":"Todo App",
         "category":"Todo app built with JavaScript, HTML5, Bootstrap, and CSS3.",
-        "image":"Capture-todo.PNG",
+        "image":"capture-todo.png",
         "url":"https://github.com/Web-Dev-Jr/Todo-App"
       },
       {

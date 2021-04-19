@@ -401,6 +401,11 @@ ul#nav li.current a, li a:hover {
    color: #95A3A3;
 }
 
+#portfolio img {
+   height: 210px;
+   width: 210px;
+}
+
 /* Portfolio Content */
 #portfolio-wrapper .columns { margin-bottom: 36px; }
 .portfolio-item .item-wrap {
